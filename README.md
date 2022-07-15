@@ -20,7 +20,12 @@ Debugging info is found at `/about-technical/`
 
 ### Photo assets
 
-Todo: How to install virtualenv
+Install the virtualenv:
+- `cd scripts`
+- `mkdir venv`
+- `python3 -m venv venv`
+- `source venv/bin/activate`
+- `pip install -r requirements.txt` (this may fail, sort that out then move on)
 
 Once the virtualenv is installed:
 - `cd scripts`
