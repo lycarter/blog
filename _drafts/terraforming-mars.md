@@ -1,0 +1,1 @@
+<!-- https://boardgamegeek.com/thread/1847708/quantified-guide-tm-strategy -->

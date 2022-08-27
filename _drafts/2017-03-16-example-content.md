@@ -81,6 +81,11 @@ An example of an internal link: [Git LFS migration]({% post_url 2019-05-27-site-
 {% endhighlight %}
 An example of an internal link: [Git LFS migration]({% post_url 2019-05-27-site-improvements-2 %})
 
+{% highlight markdown %}
+An example of a header link: [Links](#links)
+{% endhighlight %}
+An example of a header link: [Links](#links)
+
 # Images
 {% highlight markdown %}
 ![Placeholder image](https://placehold.it/800x400 "Placeholder image")
