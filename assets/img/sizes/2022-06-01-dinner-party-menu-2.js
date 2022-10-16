@@ -1,1 +1,1 @@
-if (typeof SIZES == 'undefined') {var SIZES = {}}; SIZES['2022-06-01-dinner-party-menu-2'] ={"2022-06-01-dinner-party-menu-2-2": "1512x1701", "2022-06-01-dinner-party-menu-2-1": "1489x1572"};
+if (typeof SIZES == 'undefined') {var SIZES = {}}; SIZES['2022-06-01-dinner-party-menu-2'] ={"2022-06-01-dinner-party-menu-2-1": "1489x1572", "2022-06-01-dinner-party-menu-2-2": "1512x1701"};
