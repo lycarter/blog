@@ -12,6 +12,7 @@ permalink: /projects/
 - [D3NIGMA](http://d3nigma.herokuapp.com) - a website I worked on for 6.148, MIT's web programming competition. We were awarded best frontend design and honorable mention overall. I worked primarily on front-end, as well as UI/UX design.
 
 # Small Projects
+- [Tomato Science]({% post_url 2022-10-16-tomato-science %}) - in the summer of 2022, I decided to measure the production output of my rooftop garden, mostly consisting of a smattering of different tomato varieties. I intend to use the data here to inform my plant selection in future years.
 - [Sierpinski Christmas Tree]({% post_url 2020-11-29-xmas-decorations %}) - due to COVID, I had to design a modular Christmas decoration for my small NYC apartment. I wound up with a beautiful and functional decorative that worked on the first try.
 - [3D Printing]({% post_url 2020-10-08-3d-printing %}) - I've 3D printed a lot for many mini-projects, which I compiled into a single gallery blog post. My favorite print of all of them is easily my custom-designed glasses case that I had printed in nylon by Shapeways, then sanded, polished, and painted myself. It stays closed with the help of a few magnets I glued in, and pivots on a pair of shoulder bolts. It's held up for over 2 years without any issues aside from paint and scratches.
 - Unread Emails (no longer functional) - a webpage displaying the results of a cron script I wrote, which logs and graphs my unread emails.
@@ -20,13 +21,16 @@ permalink: /projects/
 - [Mellow-D](https://hackmit2014.devpost.com/submissions/27785-mellow-d) - a website I worked on for HackMIT. We were awarded best hack for social good and the Quirky sponsor prize. I worked primarily on database generation and seeding.
 - [GraceJS](https://github.com/lycarter/gracejs) - a JS package I made for a friend of mine, based on [AntonioJS](http://victorhh.com/antoniojs).
 
+# Art
+- [Pottery (2022)]({% post_url 2022-11-05-pottery-gallery %}) - Throughout 2022, I've been learning and growing as a potter in a local studio, for about 3 hours a week. You can see my growth in skill over time.
+- [2.009 (2017)]({% post_url 2018-05-18-taing-009-744 %}) - In 2017, I TA'd MIT's Mechanical Engineering Capstone class, 2.009. As a TA in that class, I put together a couple of videos, including the Quadcopter video that has become a traditional opening for the final presentations.
+
 # Humanities
 - [Mixed Reality in Japanese Pop Culture]({{ "/assets/pdf/mixed_reality_japanese_digital.pdf" }}) - my final project for Digital Media in Japan and Korea, focusing on representations and views of virtual reality and augmented reality in Japanese pop culture. I took this class Spring '17.
 - [The History of the Japanese Optical Industry and Relationship to World Events]({{ "/assets/pdf/nikonHistory.pdf" }}) - my final project for Intro to Japanese culture, focusing on Nikon's involvement in WWII. I took this class Fall '16.
 - [Camera Movements and Color Toning as Plot Elements in _House of Flying Daggers_]({{ "/assets/pdf/hofd_essay.pdf" }}) - my final project for Modern Chinese Fiction and Cinema, focusing on artistic elements of HoFD, one of Zhang Yimou's famous films. I took this class Fall '14.
 
 # Research
-
 - [Multi-Path Planning for Hydraulic Fluid Routing]({{ "/assets/pdf/MIT_Thesis.pdf" }}) - My M. Eng thesis, an extension on the research below. This work focused on the fluid-routing algorithm, and performance optimizations I worked on during my M. Eng for Fall '17 and Spring '18.
 - [Computational Design for 3D Printable Robotics]({{ "/assets/pdf/3DPrintableRobotics.pdf" }}) - a SuperUROP project to close the loop on robot design, allowing robots to be designed automatically for 3D printing. I worked on this during Fall '16 and Spring '17.
 - [Cation Exchange in MOF-5]({{ "/assets/pdf/LandonCarterMOF5.pdf" }}) - a UROP project from Spring '14.
