@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Recipe: Chocolate Crinkles"
+title: "Chocolate Crinkle Cookies"
 author: "Landon"
 tags:
 - recipes
+recipes:
+- dessert
 gallery: true
 ---
 
