@@ -50,10 +50,10 @@ After a delicious and relaxed dinner, I prepped the crêpe batter for crêpes su
 </div>
 
 Check out each page for the specific recipes:
-- [Brioche Bread]({% post_url 2018-05-05-recipe-brioche %})
-- [Mushroom and Pea Risotto]({% post_url 2018-05-05-recipe-risotto %})
-- [Grilled Asparagus]({% post_url 2018-05-05-recipe-grilled-asparagus %})
-- [Grilled Salmon]({% post_url 2018-05-05-recipe-grilled-salmon %})
-- [Crepes Suzette]({% post_url 2022-06-01-recipe-crepes-suzette %})
+- [Brioche Bread]({% post_url /recipes/2018-05-05-recipe-brioche %})
+- [Mushroom and Pea Risotto]({% post_url /recipes/2018-05-05-recipe-risotto %})
+- [Grilled Asparagus]({% post_url /recipes/2018-05-05-recipe-grilled-asparagus %})
+- [Grilled Salmon]({% post_url /recipes/2018-05-05-recipe-grilled-salmon %})
+- [Crepes Suzette]({% post_url /recipes/2022-06-01-recipe-crepes-suzette %})
 
 Overall, the dinner was a huge success! Thanks for reading :)
