@@ -9,13 +9,7 @@ recipes:
 gallery: true
 ---
 
-# Elote soup
-
 From Binging With Babish
-
-<div class="gallery">
-<figure name="1" alt="Elote soup" caption="Elote soup garnished with chili oil (pc: Jiexi)."></figure>
-</div>
 
 4 small servings
 
@@ -36,3 +30,7 @@ From Binging With Babish
 2. Add the corn, chicken stock, and spices, plus just enough water to cover the ingredients, and simmer for about 15 minutes.
 3. Blend, adding cream if desired, and season to taste with salt and white pepper.
 4. Serve garnished with chili oil, if desired.
+
+<div class="gallery">
+<figure name="1" alt="Elote soup" caption="Elote soup garnished with chili oil (pc: Jiexi)."></figure>
+</div>

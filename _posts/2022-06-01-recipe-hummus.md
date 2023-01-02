@@ -8,8 +8,6 @@ recipes:
 - appetizer
 ---
 
-# Hummus
-
 From Inspired Taste
 
 Serves 4 as a side, 2 as a main

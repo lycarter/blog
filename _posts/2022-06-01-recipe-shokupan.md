@@ -8,8 +8,6 @@ recipes:
 - bread
 ---
 
-# Shokupan
-
 From Bread Illustrated
 
 Makes 1 loaf
