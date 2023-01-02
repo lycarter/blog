@@ -6,48 +6,27 @@ layout: post
 
 
 {% capture recipe_tags %}{% for post in site.posts %}{% if post.recipes != null %}{{ post.recipes | first }}{% unless forloop.last %},{% endunless %}{% endif %}{% endfor %}{% endcapture %}
-{% assign recipe_tag_words = recipe_tags | split:',' | uniq | sort %}
+{% assign recipe_tag_words = recipe_tags | split:',' | uniq | sort %} <!-- uniq turns the array of words into a set -->
 
+<!-- start with an empty array -->
 {% assign posts_by_recipe = '' | split: '' %}
 {% for i in (0..recipe_tag_words.size) %}{% unless forloop.last %}
 
-    <!-- <span>i: {{ i }}, {{ recipe_tag_words[i]}}</span> -->
-
+    <!-- for each recipe tag, we'll build up a list of posts containing the tag, then append that to the main array to make a dict -->
     {% assign temp = '' | split: '' %}
 
     {% for post in site.posts %}
         {% if post.recipes contains recipe_tag_words[i] %}
-            <!-- found a match -->
-            <!-- {{ temp | inspect }} -->
             {% assign temp = temp | push: post %}
-            <!-- {{ temp | inspect }} -->
         {% endif %}
     {% endfor %}
 
+    <!-- append to main array -->
     {% assign posts_by_recipe = posts_by_recipe | push: temp %}
 
     <br>
 
 {% endunless %}{% endfor %}
-
-
-<p>
-    recipe tag words
-    {{ recipe_tag_words | inspect }}
-</p>
-
-<p>
-    posts_by_recipe
-    {% for class in posts_by_recipe %}
-        <br>
-        {% for post in class %}
-            "{{ post.title }}", 
-        {% endfor %}
-    {% endfor %}
-    <!-- {{ posts_by_recipe | inspect }} -->
-    <br>
-    {{ posts_by_recipe.size }}
-</p>
 
 <section class="blog-tags">
   <ul class="tags">
