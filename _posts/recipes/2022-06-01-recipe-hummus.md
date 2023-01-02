@@ -2,8 +2,6 @@
 layout: post
 title: "Hummus"
 author: "Landon"
-tags:
-- recipes
 recipes:
 - appetizer
 ---

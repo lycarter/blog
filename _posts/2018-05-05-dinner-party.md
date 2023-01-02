@@ -3,7 +3,7 @@ layout: post
 title: "Birthday Dinner 2018"
 author: "Landon"
 tags:
-- recipes
+- food
 gallery: true
 image: "/assets/img/thumbnail/2018-05-05-dinner-party-4_thumb_800.jpg"
 ---

@@ -2,8 +2,6 @@
 layout: post
 title: "Lemony glazed cake donuts"
 author: "Landon"
-tags:
-- recipes
 recipes:
 - breakfast
 ---

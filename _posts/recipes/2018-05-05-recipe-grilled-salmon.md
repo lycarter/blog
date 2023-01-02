@@ -2,8 +2,6 @@
 layout: post
 title: "Grilled Salmon"
 author: "Landon"
-tags:
-- recipes
 recipes:
 - fish
 - entree

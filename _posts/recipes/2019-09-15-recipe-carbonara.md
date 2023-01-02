@@ -2,8 +2,6 @@
 layout: post
 title: "Carbonara"
 author: "Landon"
-tags:
-- recipes
 recipes:
 - pasta
 ---

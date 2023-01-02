@@ -2,8 +2,6 @@
 layout: post
 title: "Seared Scallops"
 author: "Landon"
-tags:
-- recipes
 recipes:
 - seafood
 - entree

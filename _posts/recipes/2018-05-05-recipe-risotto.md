@@ -2,8 +2,6 @@
 layout: post
 title: "Mushroom and Pea Risotto"
 author: "Landon"
-tags:
-- recipes
 recipes:
 - entree
 gallery: true

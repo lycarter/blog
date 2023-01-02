@@ -2,8 +2,6 @@
 layout: post
 title: "Crepes Suzette"
 author: "Landon"
-tags:
-- recipes
 recipes:
 - dessert
 gallery: true

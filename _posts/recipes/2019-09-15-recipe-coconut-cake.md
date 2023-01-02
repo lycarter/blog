@@ -2,8 +2,6 @@
 layout: post
 title: "Coconut cake"
 author: "Landon"
-tags:
-- recipes
 recipes:
 - dessert
 - involved

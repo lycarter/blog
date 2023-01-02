@@ -2,8 +2,6 @@
 layout: post
 title: "Grilled Asparagus"
 author: "Landon"
-tags:
-- recipes
 recipes:
 - sides
 gallery: true

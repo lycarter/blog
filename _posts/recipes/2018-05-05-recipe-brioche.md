@@ -2,8 +2,6 @@
 layout: post
 title: "Brioche"
 author: "Landon"
-tags:
-- recipes
 recipes:
 - bread
 gallery: true

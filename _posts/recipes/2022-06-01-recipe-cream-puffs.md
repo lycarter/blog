@@ -2,8 +2,6 @@
 layout: post
 title: "Cream puffs with chocolate ganache"
 author: "Landon"
-tags:
-- recipes
 recipes:
 - dessert
 gallery: true

@@ -2,8 +2,6 @@
 layout: post
 title: "Shokupan"
 author: "Landon"
-tags:
-- recipes
 recipes:
 - bread
 ---

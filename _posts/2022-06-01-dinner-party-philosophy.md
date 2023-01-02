@@ -4,6 +4,7 @@ title: "Dinner Party Philosophy"
 author: "Landon"
 tags:
 - thoughts
+- food
 ---
 
 I really enjoy throwing dinner parties - it's an opportunity to make some fancy things, and experiment with some flavor combinations and culture combinations that aren't seen often. When cooking a normal meal, I think most have standard combinations - peas, mashed potatoes, and steak. Or perhaps substitute some grilled/roasted asparagus for the peas. For Chinese entrees, they're usually paired with Chinese side dishes, such as marinated cucumber or grilled green beans with garlic. Korean dishes are frequently paired with kimchi or other pickled veggies or banchan. It's interesting to think about dish pairings independently from the shackles of a standard meal, it requires experience and skill in a way that I find hard to describe. Here are a few recent menus that I've made that deviate from a standard template:

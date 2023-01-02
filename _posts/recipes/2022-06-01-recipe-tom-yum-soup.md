@@ -2,8 +2,6 @@
 layout: post
 title: "Tom Yum Soup"
 author: "Landon"
-tags:
-- recipes
 recipes:
 - soup
 gallery: true

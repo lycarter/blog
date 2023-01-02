@@ -2,8 +2,6 @@
 layout: post
 title: "Blueberry pie"
 author: "Landon"
-tags:
-- recipes
 recipes:
 - dessert
 ---

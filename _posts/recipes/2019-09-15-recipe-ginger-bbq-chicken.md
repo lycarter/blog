@@ -2,8 +2,6 @@
 layout: post
 title: "Ginger BBQ Chicken"
 author: "Landon"
-tags:
-- recipes
 recipes:
 - entree
 ---

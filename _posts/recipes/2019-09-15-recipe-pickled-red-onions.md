@@ -2,8 +2,6 @@
 layout: post
 title: "Pickled red onions"
 author: "Landon"
-tags:
-- recipes
 recipes:
 - condiments
 ---

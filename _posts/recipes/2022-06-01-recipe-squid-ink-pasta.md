@@ -2,8 +2,6 @@
 layout: post
 title: "Squid Ink Pasta"
 author: "Landon"
-tags:
-- recipes
 recipes:
 - pasta
 ---
