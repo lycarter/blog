@@ -1,1 +1,1 @@
-if (typeof SIZES == 'undefined') {var SIZES = {}}; SIZES['2022-06-01-recipe-crepes-suzette'] ={"2022-06-01-recipe-crepes-suzette-2": "2268x3060", "2022-06-01-recipe-crepes-suzette-1": "2268x2127"};
+if (typeof SIZES == 'undefined') {var SIZES = {}}; SIZES['2022-06-01-recipe-crepes-suzette'] ={"2022-06-01-recipe-crepes-suzette-2": "2268x3060", "2022-06-01-recipe-crepes-suzette-3": "5016x3437", "2022-06-01-recipe-crepes-suzette-1": "2268x2127"};
