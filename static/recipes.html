@@ -1,0 +1,50 @@
+---
+title: Recipes
+permalink: "/recipes/"
+layout: post
+---
+
+
+{% capture recipe_tags %}{% for post in site.posts %}{% if post.recipes != null %}{{ post.recipes | first }}{% unless forloop.last %},{% endunless %}{% endif %}{% endfor %}{% endcapture %}
+{% assign recipe_tag_words = recipe_tags | split:',' | uniq | sort %} <!-- uniq turns the array of words into a set -->
+
+<!-- start with an empty array -->
+{% assign posts_by_recipe = '' | split: '' %}
+{% for i in (0..recipe_tag_words.size) %}{% unless forloop.last %}
+
+    <!-- for each recipe tag, we'll build up a list of posts containing the tag, then append that to the main array to make a dict -->
+    {% assign temp = '' | split: '' %}
+
+    {% for post in site.posts %}
+        {% if post.recipes contains recipe_tag_words[i] %}
+            {% assign temp = temp | push: post %}
+        {% endif %}
+    {% endfor %}
+
+    <!-- append to main array -->
+    {% assign posts_by_recipe = posts_by_recipe | push: temp %}
+
+{% endunless %}{% endfor %}
+
+<section class="blog-tags">
+  <ul class="tags">
+<!--  cycles through tag list and creates header row of all tags used in site with accompanying per-tag counts...-->
+  {% for i in (0..recipe_tag_words.size) %}{% unless forloop.last %}
+    {% capture this_word %}{{ recipe_tag_words[i] | strip_newlines }}{% endcapture %}
+    <li ><a href="#{{ this_word | cgi_escape }}" class="tag">{{ this_word }} <span>({{ posts_by_recipe[i].size }})</span></a></li>
+  {% endunless %}{% endfor %}
+  </ul>
+<!--cycles through tag list and creates subheader for each tag name...-->
+  {% for i in (0..recipe_tag_words.size) %}{% unless forloop.last %}
+    {% capture this_word %}{{ recipe_tag_words[i] | strip_newlines }}{% endcapture %}
+  <br>
+  <h2 id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>
+<!--  lists all posts corresponding to specific tag...-->
+    {% for post in posts_by_recipe[i] %}{% if post.title != null %}
+    <div class="tag-list">
+        <span><a href="{{ post.url }}">{{ post.title }}</a></span>
+       {% if post.date %} <small><span>| <time datetime="{{ post.date }}">{{ post.date | date: "%B %d, %Y" }}</time></span></small> {% endif %}
+    </div>
+    {% endif %}{% endfor %}
+  {% endunless %}{% endfor %}
+</section>

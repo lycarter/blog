@@ -1,1 +1,0 @@
-if (typeof SIZES == 'undefined') {var SIZES = {}}; SIZES['2022-06-01-dinner-party-menu-1'] ={"2022-06-01-dinner-party-menu-1-1": "2268x3723", "2022-06-01-dinner-party-menu-1-2": "2268x2127", "2022-06-01-dinner-party-menu-1-3": "2268x3060"};

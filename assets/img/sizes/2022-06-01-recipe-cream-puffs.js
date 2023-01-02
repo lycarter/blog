@@ -1,0 +1,1 @@
+if (typeof SIZES == 'undefined') {var SIZES = {}}; SIZES['2022-06-01-recipe-cream-puffs'] ={"2022-06-01-recipe-cream-puffs-1": "1512x1701"};
