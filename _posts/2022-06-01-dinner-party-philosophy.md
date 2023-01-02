@@ -9,11 +9,11 @@ tags:
 I really enjoy throwing dinner parties - it's an opportunity to make some fancy things, and experiment with some flavor combinations and culture combinations that aren't seen often. When cooking a normal meal, I think most have standard combinations - peas, mashed potatoes, and steak. Or perhaps substitute some grilled/roasted asparagus for the peas. For Chinese entrees, they're usually paired with Chinese side dishes, such as marinated cucumber or grilled green beans with garlic. Korean dishes are frequently paired with kimchi or other pickled veggies or banchan. It's interesting to think about dish pairings independently from the shackles of a standard meal, it requires experience and skill in a way that I find hard to describe. Here are a few recent menus that I've made that deviate from a standard template:
 
 ## Menu 1
-- Grilled cheese on shokupan, with elote soup
-- Squid ink pasta with shrimp, scallops, lemon, and parsley
-- Crepes suzette with whipped cream.
+- Grilled cheese on [shokupan]({% post_url 2022-06-01-recipe-shokupan %}), with [elote soup]({% post_url 2022-06-01-recipe-elote-soup %})
+- [Squid ink pasta with shrimp, scallops, lemon, and parsley]({% post_url 2022-06-01-recipe-squid-ink-pasta %})
+- [Crepes suzette with whipped cream]({% post_url 2022-06-01-recipe-crepes-suzette %})
 
-See [detailed recipes and photos]({% post_url 2022-06-01-dinner-party-menu-1 %}) in another post!
+See detailed recipes and photos in the linked posts!
 
 Obviously none of these dishes might normally be paired together - and the first, grilled cheese with elote soup is an unusual combination *and* typically not thought of as a fancy meal. However, taking some extra care by using shokupan, which can be baked fresh and has a chewier crumb and crispier griddled exterior, elevates the grilled cheese significantly. Grilled cheese is normally paired with tomato soup, but in this case I elected to pair it with elote soup, which is a blended corn soup flavored with chicken broth, red pepper flakes, white pepper, and some warming spices - light touches of cinnamon and nutmeg, finished with a drizzle of chili oil and sage browned butter.
 
@@ -24,11 +24,11 @@ The citrus note is followed through in the crepes suzette, but by oranges instea
 One other thing I considered is how much prep I could do so that I could bring each dish together in minimal time - I was part of this dinner party after all, so I couldn't spend too much time prepping the next course while people were eating the first course. I pre-made the elote soup, and had the shrimp and scallops fully prepped beforehand as well. I prepped the grilled cheese live (grilled cheese probably loses at least 50% of its quality within 10 minutes of waiting, it absolutely needs to be served straight from the griddle). Obviously, grilled cheese is pretty quick to make. The pasta was slower to make, but could mostly be put together without active work - at the beginning of the first course I put some salted water on to boil, and about halfway through I added the pasta. After the first course, I simply had to sautee the shrimp and scallops, drain the pasta, and throw together with lemon and parsley. After two back-to-back heavy dishes, I assumed correctly that most people would be ready for a bit of a break and to stand up and walk around a bit, which was the perfect time to prep the crepes suzette. Crepes suzette is an excellent dish to make live for an audience - crepes cook very quickly, supreming oranges shows off knife skills pretty well, and of course flambeing the caramel/orange juice mixture at the end is a huge crowd pleaser.
 
 ## Menu 2
-- Hummus, with pita chips, bell peppers, and carrots
-- Tom Yum soup with shrimp
-- Cream puffs filled with pastry cream and topped with chocolate ganache.
+- [Hummus]({% post_url 2022-06-01-recipe-hummus %}), with pita chips, bell peppers, and carrots
+- [Tom Yum soup with shrimp]({% post_url 2022-06-01-recipe-tom-yum-soup %})
+- [Cream puffs filled with pastry cream and topped with chocolate ganache]({% post_url 2022-06-01-recipe-cream-puffs %})
 
-See [detailed recipes and photos]({% post_url 2022-06-01-dinner-party-menu-2 %}) in another post!
+See detailed recipes and photos in the linked posts!
 
 I'm about to make this one, so I suppose I don't know how well it's worked, but I'm fairly sure it'll turn out well - fingers crossed!
 
