@@ -5,7 +5,6 @@ author: "Landon"
 recipes:
 - soup
 - entree
-gallery: true
 ---
 
 From [J Kenji Lopez-Alt](https://www.youtube.com/watch?v=NcXzpCqKdUA)

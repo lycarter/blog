@@ -4,7 +4,6 @@ title: "Southern-style Baked Mac & Cheese"
 author: "Landon"
 recipes:
 - sides
-gallery: true
 ---
 
 Adapted from [Basics with Babish](https://basicswithbabish.co/basicsepisodes/macandcheese)
