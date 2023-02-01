@@ -46,7 +46,7 @@ Adapted from [Binging with Babish](https://www.bingingwithbabish.com/recipes/201
 6. Remove the top of the aluminum foil wrapping around the ribs and bake for an additional 1 1/2 hrs, basting with the sauce every 20 mins.
 7. During the last 10 mins, crank the temperature to 500 °F to form a crust. (todo: what temp did the meat register at this point?)
 
-I don't remember exactly what led me to originally try this recipe - I think I was looking for a challenge and simultaneously noticed that pork ribs were fairly cheap. It came out great on the first try, then a little dry on the second try - I tweaked the instructions at that point to 235 °F instead of 250 °F. The next time I try this, I'll try to record all of the internal temps a lot more closely to maybe make a temperature graph. I'll also probably consult r/smoking (bbq, not cigarettes), which has lots of great advice on low-and-slow cooking.
+I don't remember exactly what led me to originally try this recipe on 7/9/20 - I think I was looking through Babish's basics book and decided this looked tasty. It came out great on the first try, then a little dry on the second try - I tweaked the instructions at that point to 235 °F instead of 250 °F. The next time I try this, I'll try to record all of the internal temps a lot more closely to maybe make a temperature graph. I'll also probably consult r/smoking (bbq, not cigarettes), which has lots of great advice on low-and-slow cooking.
 
 <div class="gallery">
 <figure name="1" alt="Cooking ribs" caption="Ribs in the oven for the final stage of cooking."></figure>

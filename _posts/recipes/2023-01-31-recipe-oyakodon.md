@@ -30,4 +30,4 @@ From [J Kenji Lopez-Alt](https://www.youtube.com/watch?v=NcXzpCqKdUA)
 4. Drizzle in the eggs so that they remain generally clumped together, and simmer an additional 1-3 mins.
 5. Serve hot over rice, and season with furikake if desired.
 
-I discovered this recipe during the pandemic when Kenji started posting POV cooking videos regularly. It seemed tasty and I generally keep all of these ingredients on hand, so it became something we cook every couple of months.
+I discovered this recipe during the pandemic (first cooked on 5/19/20) when Kenji started posting POV cooking videos regularly. It seemed tasty and I generally keep all of these ingredients on hand, so it became something we cook every couple of months.

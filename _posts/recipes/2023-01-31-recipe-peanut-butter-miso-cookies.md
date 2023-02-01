@@ -35,4 +35,4 @@ Claimed yield: 18 cookies
 9. After 15 mins, take the tray of cookies out and tap against the counter to flatten and remove bubbles, then bake for an additional 3-4 mins.
 10. Let cookies cook for 3-5 mins before transfering to a cooling rack.
 
-I don't remember when or why I initially tried these cookies, but they're wonderfully chewy and savory. I could easily eat 3 in a single sitting.
+I wrote this recipe down on 9/3/20, but I think I may have tried them before that. They're wonderfully chewy and savory. I could easily eat 3 in a single sitting.
