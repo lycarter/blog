@@ -27,3 +27,4 @@ examples:
     - program in sit/stand preferred heights
     - remove useless dongles
     - color correct monitor
+- copper pots
