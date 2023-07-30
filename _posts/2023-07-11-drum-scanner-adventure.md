@@ -98,8 +98,8 @@ I don't have any of the wet mounting supplies yet, so I mounted an old darkroom 
 <figure name="11" alt="ready to scan" caption="After turning on the printer, it performed some warm-up gyrations then said 'ready to scan'. However, I had to swap the IO from the GPIB it defaulted to over to SCSI(4) before I could actually get the connection to work."></figure>
 <figure name="12" alt="first scan in progress" caption="After fixing the IO connectivity, I began the first scan of an old darkroom print in reflective mode. I love how the whole inside lights up and you can see what's happening. You can see the beam holding the inner light through the gap in the drum - the print didn't cover the whole circumference."></figure>
 <figure name="13" alt="first scan in progress" caption="The 1000 dpi scan took more than a few minutes - drum scanning is a slow process."></figure>
-<figure name="14" alt="4 done" caption="I appreciated that the scanner gave me a readout of percent done - it's very satisfying to watch this number slowly tick up."></figure>
-<!-- // todo: GIF of drum spinning -->
+<figure name="14" alt="4% done" caption="I appreciated that the scanner gave me a readout of percent done - it's very satisfying to watch this number slowly tick up."></figure>
+<figure name="2023-07-11-drum-scanner-adventure-20.gif" alt="working" caption="The whirring sound is also great."></figure>
 </div>
 
 ## Next Steps
