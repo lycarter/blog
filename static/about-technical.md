@@ -15,7 +15,7 @@ permalink: /about-technical/
 | jekyll-mentions		| {{ site.github.versions.jekyll-mentions }} 		|
 | jekyll-redirect-from 	| {{ site.github.versions.jekyll-redirect-from }} 	|
 | jekyll-sitemap 		| {{ site.github.versions.jekyll-sitemap }} 		|
-| github-pages 			| {{ site.github.versions.github-pages }} 			|
+<!-- | github-pages 			| {{ site.github.versions.github-pages }} 			| -->
 | ruby 					| {{ site.github.versions.ruby }} 					|
 | maruku 				| {{ site.github.versions.maruku }} 				|
 | rdiscount 			| {{ site.github.versions.rdiscount }} 				|
@@ -25,7 +25,7 @@ permalink: /about-technical/
 
 ### Other info:
 
-| build_revision | `{{ site.github.build_revision }}` |
+<!-- | build_revision | `{{ site.github.build_revision }}` |
 | hostname | `{{ site.github.hostname }}` |
 | pages_hostname | `{{ site.github.pages_hostname }}` |
 | api_url | `{{ site.github.api_url }}` |
@@ -67,4 +67,4 @@ permalink: /about-technical/
 ### Source:
 
 | branch | `{{ site.github.source.branch }}` |
-| path | `{{ site.github.source.path }}` |
+| path | `{{ site.github.source.path }}` | -->
