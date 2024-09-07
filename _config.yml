@@ -18,6 +18,8 @@ author:
 markdown:       kramdown
 include:
   - _pages
+exclude:
+  - scripts
 
 # Assets
 sass:
