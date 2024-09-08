@@ -3,7 +3,7 @@ layout: post
 title: "Debugging"
 author: "Landon"
 table-zebra: true
-permalink: /about-technical/
+permalink: /about-technical
 ---
 
 ### Versions:
