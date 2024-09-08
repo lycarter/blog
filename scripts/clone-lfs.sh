@@ -1,7 +1,6 @@
 #!/bin/sh
 
-bash scripts/run-lfs-proxy.sh &
+(echo "going to sleep"; sleep 5; echo "awake"; git lfs pull; echo "done"; kill $$) &
 
-sleep 5
-
-git lfs pull
+# run server in the background and direct output to stdout
+bash scripts/run-lfs-proxy.sh
