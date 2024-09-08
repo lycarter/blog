@@ -22,6 +22,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Set up Git LFS localhost s3 proxy
+        run: bash scripts/run-lfs-proxy.sh
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
